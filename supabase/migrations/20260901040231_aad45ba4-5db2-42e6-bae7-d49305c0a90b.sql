@@ -1,0 +1,1 @@
+drop function if exists public.has_role(uuid, text);
