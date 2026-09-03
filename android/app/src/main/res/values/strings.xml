@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">InfoDuoc</string>
+    <string name="title_activity_main">InfoDuoc</string>
+    <string name="package_name">cl.duoc.infoduoc</string>
+    <string name="custom_url_scheme">cl.duoc.infoduoc</string>
+</resources>
